@@ -6,8 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Ali Tunahan Güner / 2468429 
 
+Çağatay Arel ÖRENCİK / 2396273
+
+Group 52
 
 .. toctree::
    :maxdepth: 2
